@@ -1,0 +1,21 @@
+{
+  "name": "allex_autoidbankservice",
+  "version": "0.1.0",
+  "description": "AutoIDBankService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@gitlab.hers.rs:allex_services/autoidbank"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "AutoIDBank"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
+
